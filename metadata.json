@@ -1,0 +1,8 @@
+{
+  "name": "Dr. A.P.J. Abdul Kalam Tribute & Legacy",
+  "description": "A comprehensive interactive tribute to Dr. A. P. J. Abdul Kalam, the Missile Man of India and 11th President.",
+  "requestFramePermissions": [],
+  "majorCapabilities": [
+    "MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"
+  ]
+}
